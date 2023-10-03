@@ -52,8 +52,7 @@ or
 
 ```docker run --rm curlimages/curl:7.65.3 -s --socks5 <PROXY_USER>:<PROXY_PASSWORD>@<docker host ip>:1080 http://ifcfg.co```
 
-# Authors
+## Thanks
 
-* **Sergey Bogayrets**
+This project was forked, thanks to: **Sergey Bogayrets**
 
-See also the list of [contributors](https://github.com/serjs/socks5-server/graphs/contributors) who participated in this project.
